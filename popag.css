@@ -1,0 +1,140 @@
+
+body{
+    background: #00000045 0% 0% no-repeat padding-box;
+}
+
+.popag{
+    width: 380PX;
+    height: 583px;
+    border: 1px solid #ECEDED;
+    border-radius: 12px;
+    opacity: 1;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    text-align: center;
+}
+.img-popag{
+   width: 205px;
+   height: 38px;
+   color: blue; 
+   font-size: 18px;
+   margin: 24px auto;
+   margin-bottom: 16px;
+   
+   /* margin-bottom: 16px; */
+
+}
+.title-popag{
+
+    width: 258px;
+    margin: 0 auto;
+    height: 44px;
+    margin-top: 16px;
+}
+
+.title-popag p{
+    font-size: 18px;
+    color: #000;
+    letter-spacing: 0;
+    font-weight: bold;
+}
+
+.opcion p{
+    font-size: 12px;
+    font-weight: 300;
+    margin-bottom: 16px;
+}
+
+.precio-product {
+    width: 322px;
+    height: 38px;
+    
+}
+
+.precio-product p{
+   margin: 0;
+   font-size: 12px;
+    font-weight: 300;
+    
+}
+
+.precio-product .product-valor{
+   font-size: 26px;
+   font-weight: bold;
+   margin-bottom: 6px;
+     
+ }
+
+ .popag-cuotas div{
+    width: 322px;
+    height: 38px;
+    margin: 0 auto;
+    margin-bottom: 6px;
+    border: 1px solid #ECEDED;
+    position: relative;
+ }
+
+ .popag-cuotas div p{
+   display: inline-block;
+   margin: 0px;
+ 
+ }
+
+ .popag-cuotas div .container-cuotas{
+    color: #fff;
+    background: #FF6201 0% 0% no-repeat padding-box;
+    width: 84px;
+    height: 22px;
+    border-radius: 3px;
+    left: 26%;
+    position: relative;
+    top: 50%;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    color:#fff;
+    
+  }
+
+.popag-cuotas div .numero-cuotas{
+    line-height: 22px;
+    text-align: center;
+    vertical-align: middle;
+
+    
+  } 
+
+  .popag-cuotas div .valor-cuotas{
+    color: #000;
+
+    font-size: 18px;
+    font-weight: bold;
+    left: 57%;
+   position: absolute;
+   top: 50%;
+   margin: 0;
+   transform: translate(-16%, -50%);
+   font-family: Helvetica;
+   ;
+
+  }
+
+  .container-button p{
+font-size: 12px;
+margin: 0;
+  }
+
+
+  .container-button .button{
+    margin-top: 12px;
+    width: 213px;
+    height: 40px;
+    background: #FF6A08 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+
+      }
+
+
+
+
+
